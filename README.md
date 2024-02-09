@@ -1,8 +1,12 @@
-# React + Vite
+# LinkedIn Clone
+- I have created a LinkedIn clone Using React.js, firebase, styled components and redux.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- This website includes functionality for logging in and logging out.
+- Users can create posts.
+- The website supports uploading images and videos.
+- Users can view posts made by other users.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Desktop Mode
+- Website Looks in desktop mode:- 
+!(desktop mode)[Linkedin-laptop.mp4]
