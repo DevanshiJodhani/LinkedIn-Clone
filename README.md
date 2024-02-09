@@ -9,4 +9,4 @@
 
 ## Desktop Mode
 - Website Looks in desktop mode:- 
-!(desktop mode)[Linkedin-laptop.mp4]
+![desktop mode](Linkedin-laptop.mp4)
