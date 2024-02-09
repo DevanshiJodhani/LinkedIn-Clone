@@ -9,5 +9,8 @@
 
 ## Desktop Mode
 - Website Looks in desktop mode:- 
-- ![gif](linkedin-laptop.gif)
+![gif](linkedin-laptop.gif)
 
+## Mobile Video
+- Wbsite Looks in Mobile:-
+![gif](linkedin-mobile.gif)
