@@ -1,0 +1,68 @@
+body{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  font-family: Arial, sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: 5px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #aaa9a999;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #f5f5f5; 
+}
+:root,
+body,
+html{
+  background-color: #f5f5f5;
+  box-sizing: border-box;
+}
+
+div,
+header,
+small,
+img,
+span,
+label,
+html,
+nav,
+li,
+ul,
+i,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  outline: none;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
