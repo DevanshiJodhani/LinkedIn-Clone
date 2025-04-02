@@ -1,5 +1,5 @@
 # LinkedIn Clone
-- I have created a LinkedIn clone Using React.js, firebase, styled components and redux.
+- I have created a LinkedIn clone using React.js, firebase, styled components, and redux.
 
 ## Features
 - This website includes functionality for logging in and logging out.
@@ -12,5 +12,5 @@
 ![gif](linkedin-laptop.gif)
 
 ## Mobile Video
-- Wbsite Looks in Mobile:-
+- Website Looks in Mobile:-
 ![gif](linkedin-mobile.gif)
